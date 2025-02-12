@@ -1,4 +1,3 @@
-set-prompt shipping
 dnf install maven -y
 useradd roboshop
 mkdir /app

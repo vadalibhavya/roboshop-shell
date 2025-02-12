@@ -1,4 +1,3 @@
-set-prompt dispatch
 dnf install golang -y
 useradd roboshop
 mkdir /app

@@ -1,4 +1,3 @@
-set-prompt payment
 dnf install python3 gcc python3-devel -y
 useradd roboshop
 mkdir /app
